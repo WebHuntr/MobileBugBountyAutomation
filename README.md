@@ -4,7 +4,7 @@ This will NOT work with apps that utilize certificate pinning.
 
 Steps:
 1. Create a BrowserStacks account and sign in at (https://www.browserstack.com/users/sign_up).
-2. Download and install the local version of BrowserStack (https://www.browserstack.com/local-testing/downloads/native-app/BrowserStackLocal.msi)
+2. Download and install the local version of BrowserStack ([https://www.browserstack.com/local-testing/downloads/native-app/BrowserStackLocal.msi](https://www.browserstack.com/docs/local-testing/releases-and-downloads))
 3. Obtain your access key here (https://www.browserstack.com/accounts/settings/product).
 4. Download the PowerShell script here (https://github.com/WebHuntr/MobileBugBountyAutomation/blob/main/Main.ps1).
 5. Run the Powershell script, entering your access key from step 2 when prompted.
